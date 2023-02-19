@@ -18,6 +18,7 @@ You need to have six files:
 
 ## Installation with [Lutris](https://lutris.net/)
 1. Install `wine-staging` and needed dependenices according to your distribution instructions (for example, [Arch Linux](https://wiki.archlinux.org/index.php/Wine)).
+   - <small>Recent versions of winetricks can have problems with insalling quartz due to [this](https://github.com/Winetricks/winetricks/issues/2023) issue. If you face a similar issue, downgrading cabextract to 1.9 might solve it.</small>
 2. Install `lutris`.
 3. Run `lutris -i fate-stay-night-realta-nua-ultimate-edition.yml`
 4. Follow the installation instructions.

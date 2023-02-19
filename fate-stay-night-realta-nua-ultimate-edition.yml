@@ -9,7 +9,7 @@ script:
     - installer: https://fate-patches.fra1.digitaloceanspaces.com/installer.zip
     - patches: https://fate-patches.fra1.digitaloceanspaces.com/Fate%20stay%20night%20Ultimate%20Edition%20v1.0.0-beta-2020-02-29.zip
     - lav_filters: https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe
-    - mpv: https://sourceforge.net/projects/mpv-player-windows/files/stable/mpv-0.32.0-i686.7z
+    - mpv: https://sourceforge.net/projects/mpv-player-windows/files/release/mpv-0.32.0-i686.7z
     - game_fa:       N/A:Select source file "Fate.rar"
     - game_fa_crack: N/A:Select source file "Fate Crack.rar"
     - game_hf:       N/A:Select source file "Heaven's Feel.7z"
